@@ -1,2 +1,2 @@
-# Coursera
-For Coursera work
+# Coursera_Capstone
+For the Coursera Capstone project work. 
